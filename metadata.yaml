@@ -1,0 +1,29 @@
+_repo: Aggravating-ladies-b-Being-a-list-of-works-published-under-the-pseudonym-of-a-lady-with-preli__75849
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamst, Olphar
+    gutenberg_agent_id: '58182'
+    url: http://www.gutenberg.org/2009/agents/58182
+description: ''
+gutenberg_issued: '2025-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75849'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924029553736
+pgterms:marc905: 20230719135846hamst
+pgterms:marc906: '1880'
+pgterms:marc907: gb
+production_note: deaurider, Chris Hapka and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bBernard Quaritch, $c1880.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Aggravating ladies : $b Being a list of works published under the pseudonym
+  of "a lady," with preliminary suggestions on the art of describing books bibliographically'
+url: http://www.gutenberg.org/ebooks/75849
