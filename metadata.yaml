@@ -1,11 +1,16 @@
 _repo: Aggravating-ladies-b-Being-a-list-of-works-published-under-the-pseudonym-of-a-lady-with-preli__75849
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75849-h/images/cover.jpg
 creator:
   author:
     agent_name: Hamst, Olphar
     gutenberg_agent_id: '58182'
     url: http://www.gutenberg.org/2009/agents/58182
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75849#Aggravating-ladies-b-Being-a-list-of-works-published-under-the-pseudonym-of-a-lady-with-preli_
 gutenberg_issued: '2025-04-13'
 gutenberg_type: Text
 identifiers:
